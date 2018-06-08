@@ -5,7 +5,7 @@
 
 **- Once the application is installed on the device the user simply opens the application.**
 
-<a href="https://s3.amazonaws.com/lwa-hosted-image/ezgif-2-9cd68f6148.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/2bvqpd"><img src="https://i.imgflip.com/2bvqpd.gif" title="made at imgflip.com"/></a>
 
 **- In the bottom right corner of the app you will notice something called 'Recognition Process'. Here the camera view along with the Machine Learning model will give you the top results for what it believes it is looking at.**
 
@@ -13,8 +13,7 @@
 
 **- When you are focused on an item you may tap on the screen in the location you feel fit and an augmented 3D label will be placed in that location with the word of the top result as seen in the 'Recognition Process'.**
 
-<a href="https://s3.amazonaws.com/lwa-hosted-image/ezgif-2-9f82edd102.gif"/></a>
-
+<a href="https://imgflip.com/gif/2bvqny"><img src="https://i.imgflip.com/2bvqny.gif" title="made at imgflip.com"/></a>
 
 # Technologies Used
 

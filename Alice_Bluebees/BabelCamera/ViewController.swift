@@ -9,6 +9,26 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    let image1 = UIImage(named: "Image")
+    let image2 = UIImage(named: "Identification of items using...")
+    let image3 = UIImage(named: "Camera and Results may vary")
+    
+    @IBOutlet weak var Coach1: UIImageView!
+    @IBOutlet weak var Coach2: UIImageView!
+    @IBOutlet weak var Coach3: UIImageView!
+    
+    @IBAction func CoachButton(_ sender: Any) {
+        if(Coach1.alpha == 1.0){
+            Coach1.alpha = 0
+            Coach2.alpha = 0
+            Coach3.alpha = 0
+        } else{
+            Coach1.alpha = 1.0
+            Coach2.alpha = 1.0
+            Coach3.alpha = 1.0
+        }
+    }
 
     private static let animationTime = 0.2 // seconds
     private static let wordsDisplayTime = 3.0 // seconds

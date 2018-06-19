@@ -1,10 +1,4 @@
-//
-//  bluebeeViewController.swift
-//  BabelCamera
-//
-//  Created by Alfonso Morales on 6/7/18.
-//  Copyright © 2018 AcroMace. All rights reserved.
-//
+
 
 import UIKit
 

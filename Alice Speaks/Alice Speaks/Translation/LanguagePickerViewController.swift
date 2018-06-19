@@ -1,10 +1,4 @@
-//
-//  LanguagePickerViewController.swift
-//  BabelCamera
-//
-//  Created by Andy Cho on 2017-07-21.
-//  Copyright © 2017 AcroMace. All rights reserved.
-//
+
 
 import UIKit
 

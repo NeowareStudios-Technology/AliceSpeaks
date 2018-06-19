@@ -1,10 +1,4 @@
-//
-//  CameraPreviewView.swift
-//  BabelCamera
-//
-//  Created by Andy Cho on 2017-07-13.
-//  Copyright © 2017 AcroMace. All rights reserved.
-//
+
 
 import UIKit
 import AVKit

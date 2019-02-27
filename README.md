@@ -35,6 +35,7 @@
 ## Where Can You Find Us?
 
 * [Webpage](https://leapwithalice.io)
+* [NeoWare Webpage](Neoware.io)
 * [Alice iOS App](https://itunes.apple.com/us/app/leap-with-alice/id1369587027?platform=iphone&preserveScrollPosition=true&platform=iphone&platform=iphone&platform=iphone#platform/iphone&platform=iphone&platform=iphone&platform=iphone)
 * [Alice Android App](https://play.google.com/store/apps/details?id=com.lwa.alicelens)
 * [Facebook](https://www.facebook.com/LeapWithAlice/?ref=br_rs)

@@ -1,4 +1,4 @@
-# AliceSpeaks™
+# AliceSpeaks™ by NeoWare
   The AliceSpeaks™ application is an iOS native build using emerging technologies. These include the Apple Vision and Machine Learning frameworks to identify items. Once done the application will then allow user to tap on the speech button to have the identified item stated out loud in english and translated in a user selected language of choice.
 
 # How It Works
